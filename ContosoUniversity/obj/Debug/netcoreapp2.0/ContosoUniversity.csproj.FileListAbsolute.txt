@@ -1,0 +1,36 @@
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+F:\ISCG7420-19-2\Week1\Week1 Practical Solutions\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+H:\web develop\New folder\ContosoUniversity - Week1\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
